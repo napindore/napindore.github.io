@@ -769,7 +769,8 @@ div.menu ul li li li:hover ul {
 #navigation .menu .current-menu-ancestor ul .current_page_item a,
 #navigation .menu .current_page_ancestor ul .current-menu-item a,
 #navigation .menu .current-cat ul li a:hover {
-	color: #000000;
+	color: #000000
+
 }
 #navigation .menu .current_page_item ul li a,
 #navigation .menu .current-menu-item ul li a,
