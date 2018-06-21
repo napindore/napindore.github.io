@@ -1,2 +1,0 @@
-# napindore.github.io
-Website
