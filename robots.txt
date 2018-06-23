@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: 
+Allow: /index.html
+Allow: /contact.html
+Allow: /about_us.html
+Allow: /gallery.html
+Allow: /admissions.html
+Allow: /awards.html
+Allow: /donations.html
+Allow: /events.html
+
+Sitemap: http://www.nabindore.org/sitemap.xml
